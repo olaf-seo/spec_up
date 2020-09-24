@@ -3,7 +3,7 @@ package Stack;
 import java.io.*;
 import java.util.Stack;
 
-//	2020.09.19 �����
+//	2020.09.19 토요일 - 에디터 ( L, D, B , P  커서 조정)
 public class stack1406 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));

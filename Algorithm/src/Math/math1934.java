@@ -3,7 +3,7 @@ package Math;
 import java.io.*;
 import java.util.StringTokenizer;
 
-//	2020.09.23 ¼ö¿äÀÏ - ÃÖ¼Ò°ø¹è¼ö
+//	2020.09.23 ìˆ˜ìš”ì¼ - ìµœì†Œê³µë°°ìˆ˜ LCM
 public class math1934 {
 	static int gcd(int a, int b) {
 		while(b!=0) {

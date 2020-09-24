@@ -3,7 +3,7 @@ package AplusB;
 import java.io.*;
 import java.util.Scanner;
 
-//2020.09.16 ¸ñ
+//2020.09.16 ìˆ˜ìš”ì¼  A+B
 public class AplusB10952 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		Scanner sc = new Scanner(System.in);

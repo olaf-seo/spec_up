@@ -3,7 +3,7 @@ package Math;
 import java.io.*;
 import java.util.StringTokenizer;
 
-//	2020.09.23 ¼ö¿äÀÏ - ¼Ò¼ö ¹®Á¦
+//	2020.09.23 ìˆ˜ìš”ì¼ - ì†Œìˆ˜ êµ¬í•˜ê¸°
 public class math1929 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -12,7 +12,7 @@ public class math1929 {
 		int m=Integer.parseInt(st.nextToken());
 		int n=Integer.parseInt(st.nextToken());
 		
-		int[] prime = new int[n];					// ¼Ò¼öÀúÀå
+		int[] prime = new int[n];					// ì†Œìˆ˜ ì €ì¥
 		int pn = 0;
 		boolean[] check = new boolean[n+1];
 		

@@ -2,7 +2,7 @@ package Stack;
 
 import java.io.*;
 
-//	2020.09.19 Åä¿äÀÏ
+//	2020.09.19 í† ìš”ì¼ - ìŠ¤íƒ êµ¬í˜„
 public class stack10828 {
 	static int stack[];
 	static int size;

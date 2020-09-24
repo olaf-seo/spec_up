@@ -3,7 +3,7 @@ package Math;
 import java.io.*;
 import java.util.StringTokenizer;
 
-//	2020.09.23 ¼ö¿äÀÏ - ÃÖ´ë°ø¾à¼ö, ÃÖ¼Ò°ø¹è¼ö
+//	2020.09.23 ìˆ˜ìš”ì¼ - ìµœì†Œê³µë°°ìˆ˜, ìµœëŒ€ê³µì•½ìˆ˜
 public class math2609 {
 	static int gcd(int a, int b) {
 		if(b==0) {
@@ -33,7 +33,7 @@ public class math2609 {
 
 
 
-/*	ÃÖ´ë°ø¾à¼ö Greatest Common Divisor - À¯Å¬¸®µå È£Á¦¹ı
+/*	ìµœëŒ€ê³µì•½ìˆ˜ Greatest Common Divisor - ìœ í´ë¦¬ë“œ í˜¸ì œë²•
 	1. int gcd(int a, int b) {
 			if(b==0) {
 				return a;
@@ -51,7 +51,7 @@ public class math2609 {
 			return a;
 		}
 	
-	ÃÖ´ë°ø¹è¼ö Least Common Multiple - (gcd ÀÀ¿ë)
+	ìµœì†Œê³µë°°ìˆ˜ Least Common Multiple - (gcd ì´ìš©)
 	
 	l = g * (a/g) * (b/g)
 	  = (a*b)/g

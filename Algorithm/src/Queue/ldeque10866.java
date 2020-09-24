@@ -3,7 +3,7 @@ package Queue;
 import java.io.*;
 import java.util.ArrayDeque;
 
-//2020.09.21 ¿ù¿äÀÏ
+//2020.09.21 ì›”ìš”ì¼ - ë± êµ¬í˜„
 public class ldeque10866 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));

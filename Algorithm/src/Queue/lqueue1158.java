@@ -3,7 +3,7 @@ package Queue;
 import java.io.*;
 import java.util.*;
 
-//2020.09.21 ������
+//2020.09.21 월요일 - 조세퍼스 문제 (N 명의 사람을 순서대로 M번째 사람을 제거하여 제거되는 순서)
 public class lqueue1158 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));

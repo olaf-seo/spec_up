@@ -3,7 +3,7 @@ package Math;
 import java.io.*;
 import java.util.StringTokenizer;
 
-//	2020.09.23 ¼ö¿äÀÏ - ¼Ò¼ö ¹®Á¦
+//	2020.09.23 ìˆ˜ìš”ì¼ - ì†Œìˆ˜ì°¾ê¸° 
 public class math1978 {
 	static boolean prime(int p) {
 		if(p<2) {
@@ -37,11 +37,11 @@ public class math1978 {
 
 
 
-/* ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼
-	int prime[100];					// ¼Ò¼öÀúÀå
-	int pn = 0;						// ¼Ò¼öÀÇ °³¼ö
-	boll check[101];					// Áö¿öÁ³À¸¸é true
-	int n = 100;						// 100±îÁö ¼Ò¼ö
+/* ì—ë¼í† ë„¤ìŠ¤ì˜ ì²´
+	int prime[100];					// ì†Œìˆ˜ ì €ì¥
+	int pn = 0;						// ì†Œìˆ˜ ê°œìˆ˜
+	boll check[101];					// ì†Œìˆ˜ê°€ ì•„ë‹ˆë©´(ì§€ì›Œ ì¡Œìœ¼ë©´) true
+	int n = 100;						// 100ê¹Œì§€ ì†Œìˆ˜
 	for(int i=2; i<=n; i++){
 		if(check[i] == false){
 			prime[pn++] = i;

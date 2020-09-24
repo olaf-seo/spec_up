@@ -1,7 +1,5 @@
 package Stack;
 
-
-//	 스택구현 객체지향
 class Stacks<T>{
 	class Node<T>{
 		private T data;

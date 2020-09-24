@@ -2,7 +2,7 @@ package Stack;
 
 import java.io.*;
 
-//	2020.09.19 �����
+//	2020.09.19 토요일 - 괄호 (올바른 괄호 숫자)
 public class stack9012 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

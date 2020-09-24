@@ -3,7 +3,7 @@ package Math;
 import java.io.*;
 import java.util.StringTokenizer;
 
-//	2020.09.23 ¼ö¿äÀÏ - ³ª¸ÓÁö ¹®Á¦
+//	2020.09.23 ìˆ˜ìš”ì¼ - ë‚˜ë¨¸ì§€ ë¬¸ì œ
 public class math10430 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

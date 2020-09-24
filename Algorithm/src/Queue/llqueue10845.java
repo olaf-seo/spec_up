@@ -2,7 +2,7 @@ package Queue;
 
 import java.io.*;
 
-//	2020.09.21 ¿ù¿äÀÏ
+//	2020.09.21 ì›”ìš”ì¼ - í êµ¬í˜„
 public class llqueue10845 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));

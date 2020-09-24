@@ -2,7 +2,7 @@ package AplusB;
 
 import java.io.*;
 
-//2020.09.16 ¸ñ
+//2020.09.16 ìˆ˜ìš”ì¼  A+B
 public class AplusB10953 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

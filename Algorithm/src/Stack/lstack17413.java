@@ -3,8 +3,7 @@ package Stack;
 import java.io.*;
 import java.util.Stack;
 
-//	2020.09.22 ȭ����
-
+//	2020.09.22 화요일 - 단어 뒤집기
 public class lstack17413 {
 	static void print(BufferedWriter bw, Stack<Character> st) throws IOException{
 		while(!st.isEmpty()) {

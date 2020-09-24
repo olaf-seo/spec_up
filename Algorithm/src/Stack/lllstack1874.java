@@ -3,7 +3,7 @@ package Stack;
 import java.io.*;
 import java.util.Stack;
 
-//2020.09.19 Åä¿äÀÏ
+//2020.09.19 í† ìš”ì¼ - ìŠ¤íƒìˆ˜ì—´
 public class lllstack1874 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
