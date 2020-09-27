@@ -14,7 +14,7 @@ public class math1929 {
 		
 		int[] prime = new int[n];					// 소수 저장
 		int pn = 0;
-		boolean[] check = new boolean[n+1];
+		boolean[] check = new boolean[n-m+1];
 		
 		for(int i=2; i<=n; i++) {
 			if(!check[i]) {
